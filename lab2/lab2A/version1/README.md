@@ -1,4 +1,4 @@
-election time out: 300ms
+election timeout: 300ms
 
 heartbeat time: 100ms
 
