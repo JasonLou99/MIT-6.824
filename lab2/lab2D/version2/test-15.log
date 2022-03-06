@@ -1,0 +1,5 @@
+=== RUN   TestSnapshotInstallUnreliable2D
+Test (2D): install snapshots (disconnect+unreliable) ...
+    config.go:571: one(9164468228401098958) failed to reach agreement
+--- FAIL: TestSnapshotInstallUnreliable2D (63.16s)
+FAIL

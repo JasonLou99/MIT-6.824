@@ -1,0 +1,5 @@
+=== RUN   TestSnapshotInstallUnreliable2D
+Test (2D): install snapshots (disconnect+unreliable) ...
+    test_test.go:1077: Log size too large
+--- FAIL: TestSnapshotInstallUnreliable2D (22.93s)
+FAIL
